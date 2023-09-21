@@ -116,4 +116,3 @@ Frontend Mobile Development Course (React Native) 🚀
 
 ---
 
-Remember to ensure the correctness of the URLs, especially the GitHub username "usarnameMe", and adjust as necessary to match your actual username or project structure.
