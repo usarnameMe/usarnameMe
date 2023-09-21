@@ -3,12 +3,26 @@
 ---
 
 <div align="center">
-  
+
 # Gvanca Uplisashvili
 
-📍 **Tbilisi, Georgia** | 📧 gvanca.uplisashvili@gmail.com | 📞 +995 599 69 82 89 | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/gvanca-uplisashvili-57b543253/)
+📍 Tbilisi, Georgia
+
+<div style="text-align: center;">
+  <a href="mailto:gvanca.uplisashvili@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="display: inline-block; margin: 5px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/gvanca-uplisashvili-57b543253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="display: inline-block; margin: 5px;" />
+  </a>
+  <br>
+    <span style="display: inline-block; margin: 5px;">📞 +995 599 69 82 89</span>
+</div>
 
 </div>
+
+
 
 ---
 
@@ -77,11 +91,18 @@ Frontend mobile developer with a zest for crafting user-centric applications. My
 ---
 
 ## 📚 Education
+Frontend Mobile Development Course (React Native) 🚀
 
-📜 **Frontend Mobile Development Course (React Native)**  
-🎓 **Institute**: Digital Institute  
-📅 **Duration**: Dec 2022 – Jun 2023  
-📖 **Skills Acquired**: Dive into React ecosystems, mastering UI/UX design, understanding RESTful APIs, GIT finesse, optimizing performance, and mastering app deployment.
+- Institute: 🎓 Digital Institute
+- Duration: 📅 Dec 2022 – Jun 2023
+- Achievement: 🏆 Ranked among the Top 3 students for outstanding performance.
+- Skills Acquired:
+  -🌐 Comprehensive immersion in the React ecosystem.
+  - 🎨 Mastery of UI/UX design principles.
+  - 🌉 Proficiency with RESTful APIs.
+  - 🔧 GIT workflows and best practices.
+  - ⚡ Performance optimization techniques.
+  - 📱 Adeptness in app deployment strategies.
 
 ---
 
