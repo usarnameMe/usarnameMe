@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://avatars.githubusercontent.com/u/122465852?v=4" alt="Gvanca Uplisashvili's avatar" style="border-radius: 50%; width: 150px; height: 150px;" />
+ 
   <h1>Gvanca Uplisashvili</h1>
   <p>📍 Tbilisi, Georgia</p>
   <a href="mailto:gvanca.uplisashvili@gmail.com">
@@ -35,11 +35,6 @@ Backend development, one step at a time.
 - **Status**: In progress 🚧
 - [View Repo](https://github.com/usarnameMe/NodeJS-learning)
 
-  ### WhatsApp Clone
-Communication is redefined with real-time chats.
-- **Technologies**: `React Native` `JavaScript` `Redux` `Firebase`
-- **Features**: Multimedia messaging, group dynamics, and intuitive search.
-- [View Repo](https://github.com/usarnameMe/WhatsApp-clone-app)
 
 ---
 
@@ -48,7 +43,6 @@ Communication is redefined with real-time chats.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -60,6 +54,11 @@ Communication is redefined with real-time chats.
 **Digital Institute**  
 _Frontend Mobile Development (React Native)_  
 _Dec 2022 – Jun 2023_
+
+**LinkedIn Learning**  
+_React & Redux Course_  
+_Oct 2023_  
+Acquired hands-on experience with React and Redux, understanding state management, component lifecycle, and Redux middleware. Built a dynamic web application to deepen understanding and practice React and Redux. [GitHub - Redux Learning Project]([https://github.com/your-github-repo](https://github.com/usarnameMe/Practicing-Redux))
 
 ## 🌐 Languages
 
