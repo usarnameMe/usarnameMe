@@ -58,7 +58,7 @@ _Dec 2022 – Jun 2023_
 **LinkedIn Learning**  
 _React & Redux Course_  
 _Oct 2023_  
-Acquired hands-on experience with React and Redux, understanding state management, component lifecycle, and Redux middleware. Built a dynamic web application to deepen understanding and practice React and Redux. [GitHub - Redux Learning Project]([https://github.com/your-github-repo](https://github.com/usarnameMe/Practicing-Redux))
+
 
 ## 🌐 Languages
 
