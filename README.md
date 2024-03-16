@@ -5,7 +5,7 @@
   <a href="mailto:gvanca.uplisashvili@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gvanca-uplisashvili-57b543253/">
+  <a href="https://www.linkedin.com/in/gvantsa-uplisashvili-57b543253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <p>📞 +995 599 69 82 89</p>
@@ -69,7 +69,7 @@ _Oct 2023_
 
 <div align="center">
   <b>Let's build something great together!</b><br>
-  <a href="https://github.com/usarnameMe" title="Check out my projects!">
+  <a href="https://github.com/usarnameMe?tab=repositories" title="Check out my projects!">
     <img src="https://img.shields.io/badge/-Projects-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
