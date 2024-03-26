@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h1>Gvanca Uplisashvili</h1>
+  <h1>Gvantsa Uplisashvili</h1>
   <p>📍 Tbilisi, Georgia</p>
   <a href="mailto:gvanca.uplisashvili@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
