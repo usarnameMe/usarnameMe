@@ -18,9 +18,13 @@
 ### Concept Digital (Projects – Forbes, JobsIn)
 _React Native Developer - Front-end Developer | Since 10.2023_
 
+### Artificial Intelligence Association of Georgia (GAIA)
+_Full Member | Since 01.2024_
+- Engaging in AI community events, receiving advanced educational materials, and participating in research and projects.
+
+---
 
 ## 🎨 Self Projects
-
 
 ### Uber Eats Clone
 Reimagining the food delivery experience.
@@ -34,7 +38,7 @@ Backend development, one step at a time.
 - **Features**: RESTful API, MVC architecture, database integrations (MySQL, MongoDB), authentication.
 - **Status**: In progress 🚧
 - [View Repo](https://github.com/usarnameMe/NodeJS-learning)
-
+- https://gvns-node.vercel.app
 
 ---
 
@@ -45,7 +49,7 @@ Backend development, one step at a time.
 ![React Native](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -57,8 +61,17 @@ _Dec 2022 – Jun 2023_
 
 **LinkedIn Learning**  
 _React & Redux Course_  
-_Oct 2023_  
+_Oct 2023_
 
+**Udemy**  
+_React Native with TypeScript - The Practical Guide_  
+_Jan 2024_
+
+**Udemy**  
+_Node.js Learning Course_  
+_May 2024_
+
+---
 
 ## 🌐 Languages
 
