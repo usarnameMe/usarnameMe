@@ -38,7 +38,13 @@ Backend development, one step at a time.
 - **Features**: RESTful API, MVC architecture, database integrations (MySQL, MongoDB), authentication.
 - **Status**: In progress 🚧
 - [View Repo](https://github.com/usarnameMe/NodeJS-learning)
-- https://gvns-node.vercel.app
+- [View App](https://gvns-node.vercel.app)
+
+### Personal Portfolio
+Showcasing my projects and skills.
+- **Technologies**: `React` `TypeScript` `Styled Components`
+- **Features**: Project showcases, responsive design, contact form.
+- [View Portfolio](https://usarnameme.github.io/portfolio)
 
 ---
 
