@@ -44,16 +44,16 @@ Backend development, one step at a time.
 Showcasing my projects and skills.
 - **Technologies**: `React` `TypeScript` `Styled Components`
 - **Features**: Project showcases, responsive design, contact form.
-- [View Portfolio](https://usarnameme.github.io/portfolio)
+- [View Portfolio](https://gvantsa-uplisashvili-portfolio-866a.vercel.app)
 
 ---
 
 ## 🧰 Technical Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
