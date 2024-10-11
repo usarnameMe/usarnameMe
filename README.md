@@ -24,23 +24,8 @@ _Full Member | Since 01.2024_
 
 ---
 
-## 🎨 Self Projects
 
-### Uber Eats Clone
-Reimagining the food delivery experience.
-- **Technologies**: `React Native` `JavaScript` `Expo`
-- **Features**: Geolocation, real-time tracking, user profiles, and a cart system.
-- [View Repo](https://github.com/usarnameMe/Uber-app)
-
-### NodeJS Learning Project
-Backend development, one step at a time.
-- **Technologies**: `Node.js` `Express` `EJS` `MySQL` `MongoDB`
-- **Features**: RESTful API, MVC architecture, database integrations (MySQL, MongoDB), authentication.
-- **Status**: In progress 🚧
-- [View Repo](https://github.com/usarnameMe/NodeJS-learning)
-- [View App](https://gvns-node.vercel.app)
-
-### Personal Portfolio
+## Personal Portfolio
 Showcasing my projects and skills.
 - **Technologies**: `React` `TypeScript` `Styled Components`
 - **Features**: Project showcases, responsive design, contact form.
@@ -57,32 +42,7 @@ Showcasing my projects and skills.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
 
-## 📚 Education
-
-**Digital Institute**  
-_Frontend Mobile Development (React Native)_  
-_Dec 2022 – Jun 2023_
-
-**LinkedIn Learning**  
-_React & Redux Course_  
-_Oct 2023_
-
-**Udemy**  
-_React Native with TypeScript - The Practical Guide_  
-_Jan 2024_
-
-**Udemy**  
-_Node.js Learning Course_  
-_May 2024_
-
----
-
-## 🌐 Languages
-
-- **Georgian**: Native  
-- **English**: Professional
 
 ---
 
