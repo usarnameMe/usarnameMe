@@ -34,7 +34,5 @@
 <hr/>
   <p></p>
   
-  <a href="https://github.com/usernameMe?tab=repositories" title="Check out my projects!">
-    <img src="https://img.shields.io/badge/-Projects-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
 </div>
